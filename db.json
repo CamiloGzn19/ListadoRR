@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Canela",
+      "precio": "7500",
+      "id": 22
+    },
+    {
+      "nombre": "Papa",
+      "precio": 8000,
+      "id": 23
+    },
+    {
+      "nombre": "Chunchullo ",
+      "precio": 6000,
+      "id": 27
+    },
+    {
+      "nombre": "Trucha",
+      "precio": 5500,
+      "id": 28
+    }
+  ]
+}
